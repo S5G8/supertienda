@@ -22,4 +22,4 @@ db.collection("supertienda").add({
 })
 .catch((error)=>{
     cponsole.log("Error al registrar el documento")
-})
+});
